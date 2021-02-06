@@ -11,7 +11,15 @@ exam.apps.binus.ac.id##.swal2-backdrop-show.swal2-center.swal2-container
 
 
 ! Binusmaya pop up annoucements Blocks
+! Traditional mode in case not working
 binusmaya.binus.ac.id##.fancybox-inner > .popup-content
 ||bm5cdn.azureedge.net/asset/themes/bm5/images/fancybox/fancybox_overlay.png$image
 binusmaya.binus.ac.id##.fancybox-inner
 ||bm5cdn.azureedge.net/asset/themes/bm5/images/fancybox/fancybox_overlay.png
+
+
+! Advanced mode goes here whoosh
+! Stop Querying Survey is Filled or not
+! Stop Querying is there any pop up data or not
+||qmc.apps.binus.ac.id/api/v1/getBinusianSurvey/
+||binusmaya.binus.ac.id/services/ci/index.php/general/getPopupData
