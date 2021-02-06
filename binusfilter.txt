@@ -16,3 +16,4 @@
 ! Stop Querying is there any pop up data or not
 ||qmc.apps.binus.ac.id/api/v1/getBinusianSurvey/
 ||binusmaya.binus.ac.id/services/ci/index.php/general/isFilledLabQuestionnaire/
+||binusmaya.binus.ac.id/services/ci/index.php/general/getPopupData
