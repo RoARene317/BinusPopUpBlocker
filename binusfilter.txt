@@ -1,0 +1,5 @@
+//Exam Intergrity Pop Up blocker
+//Before continuing you should agree with this.
+//I Agree to not cheating in any exam because it will results in dropout
+//Intergrity is obtained by yourself not by others. Honesty is the most important in your life
+exam.apps.binus.ac.id##.swal2-backdrop-show.swal2-center.swal2-container
