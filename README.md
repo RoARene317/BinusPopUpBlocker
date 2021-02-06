@@ -7,7 +7,7 @@ Features :
 3. Exam Apps Intergrity Notice Blocker
 
 # Suggestion
-Any suggestion? Just open the issue and I will help you a lot.
+Any suggestion? Just open the issue and I will response that in a future.
 
 # PSA
 Please Binus don't drop out me or suing me or hate me because of doing this.
