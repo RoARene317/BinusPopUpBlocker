@@ -2,7 +2,7 @@
 ! Before continuing you should agree with this.
 ! I Agree to not cheating in any exam because it will results in dropout
 ! Intergrity is obtained by yourself not by others. Honesty is the most important in your life
-! Exam not working for now , scrolling bug detected. I will figure out how to bypass the EULA agreements.
+! It parts on the HTML and CSS so need to workarounds for this
 ! exam.apps.binus.ac.id##.swal2-backdrop-show.swal2-center.swal2-container
 
 
