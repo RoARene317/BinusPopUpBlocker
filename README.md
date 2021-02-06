@@ -5,7 +5,7 @@ Features :
 1. Track Prevention
 2. Survey Blocker
 
-#Known issue
+# Known issue
 Exam Intergrity scroll bar is not showing up
 Temporary Solution : Press Ctrl , - for Reducing or Zooming out by Ctrl and scroll to zoom out.
 # Suggestion
