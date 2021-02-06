@@ -7,4 +7,7 @@ Features :
 3. Exam Apps Blocker
 
 # Suggestion
-Any suggestion? Just open the issue and I will help you a lot. Plz Binus don't drop out me or fired me for doing this.
+Any suggestion? Just open the issue and I will help you a lot.
+
+# PSA
+Please Binus don't drop out me or suing me or hate me because of doing this.
