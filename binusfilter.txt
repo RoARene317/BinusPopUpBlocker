@@ -14,5 +14,4 @@ exam.apps.binus.ac.id##.swal2-backdrop-show.swal2-center.swal2-container
 ! Stop Querying Survey is Filled or not
 ! Stop Querying is there any pop up data or not
 ||qmc.apps.binus.ac.id/api/v1/getBinusianSurvey/
-||binusmaya.binus.ac.id/services/ci/index.php/general/getPopupData
 ||binusmaya.binus.ac.id/services/ci/index.php/general/isFilledLabQuestionnaire/
