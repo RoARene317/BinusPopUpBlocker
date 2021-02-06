@@ -4,6 +4,7 @@ This is a block list to prevent pop up showing in your LMS.
 Features :
 1. Track Prevention
 2. Survey Blocker
+3. Main Annoucement Pop Up
 
 # Known issue
 Exam Intergrity scroll bar is not showing up
