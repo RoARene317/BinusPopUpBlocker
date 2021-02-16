@@ -1,12 +1,17 @@
 
 
-! Do Not Track Binus
+! Do Not Track Third Party
 ||az416426.vo.msecnd.net^$3p
 ||googletagmanager.com^
+! Do Not Track Binusian Server
+||binusmaya.binus.ac.id/services/ci/index.php/general/insertLog/
 
 
-! Advanced mode goes here whoosh
-! Stop Querying Survey is Filled or not
+! Stop Getting Binusian Survey
 ||qmc.apps.binus.ac.id/api/v1/getBinusianSurvey/
+! Stop Getting Lab is Filled or not
 ||binusmaya.binus.ac.id/services/ci/index.php/general/isFilledLabQuestionnaire/
+! Stop requesting OTP is validated or not
 ||binusmaya.binus.ac.id/services/ci/index.php/smsToken/checkOtp
+! Stop Requesting Student Profile Update
+||binusmaya.binus.ac.id/services/ci/index.php/blocking/link_redirect/Studentservices-studentProfile-update
