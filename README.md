@@ -1,4 +1,4 @@
-# BinusPopUpBlocker
+# SuperSunib
 This is a block list to prevent pop up showing in your LMS.
 
 Features :
