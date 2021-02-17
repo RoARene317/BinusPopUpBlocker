@@ -1,4 +1,4 @@
-# SuperSunib
+# B!NU5Minimal
 This is a block list to prevent pop up showing in your LMS.
 
 Features :
