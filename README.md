@@ -10,10 +10,10 @@ Features :
 # Requirements
 Ublock Origins
 Link Installation : 
-Chrome : https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-Firefox : https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-Microsoft Edge : https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
-Opera : https://addons.opera.com/en/extensions/details/ublock/
+1. Chrome : https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
+2. Firefox : https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+3. Microsoft Edge : https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
+4. Opera : https://addons.opera.com/en/extensions/details/ublock/
 
 # Installation
 1. Click the binusfilter.txt
